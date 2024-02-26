@@ -1,0 +1,22 @@
+{
+  "name": "tipin_ihosting",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconify/vue": "^4.1.1",
+    "@vueuse/motion": "^2.0.0",
+    "axios": "^1.6.7",
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11",
+    "sass": "^1.71.0"
+  }
+}
